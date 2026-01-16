@@ -1,1 +1,0 @@
-type Env = Map[String, Int]
