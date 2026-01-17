@@ -1,3 +1,5 @@
 package enviroment
 
-type Env = Map[String, Int]
+import values.*
+
+type Env = Map[String, Value]
